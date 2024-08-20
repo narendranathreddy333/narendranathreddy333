@@ -1,6 +1,8 @@
 # Hello, I'm Narendranath Reddy 👋
 
-Welcome to my GitHub page! I am a current graduate student at the University of North Texas, pursuing a Master's degree in Data Science. where I have maintained a GPA of 3.83. My expertise encompasses advanced machine learning, comprehensive data analysis, and robust full-stack development.
+![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile)
+
+I am a current graduate student at the University of North Texas, pursuing a Master's degree in Data Science. where I have maintained a GPA of 3.83. My expertise encompasses advanced machine learning, comprehensive data analysis, and robust full-stack development.
 
 Through my academic pursuits and practical experiences, I've developed a robust skill set that allows me to tackle complex challenges across various domains. I'm dedicated to leveraging data to drive innovation, improve functionality, and enhance user experiences in diverse applications.
 
@@ -68,6 +70,7 @@ Through my academic pursuits and practical experiences, I've developed a robust 
 ## 🤝 Let's Connect
 - **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/narendranathreddy-reddy/)
 - **Email**: [narendranathreddy333@gmail.com](mailto:narendranathreddy333@gmail.com)
+- **Instagram**: [Follow me on Instagram](https://www.instagram.com/narendranath._.reddy//)
 
 Feel free to explore my projects and reach out if you're interested in collaborating. I'm always looking for new challenges and opportunities to grow!
 
