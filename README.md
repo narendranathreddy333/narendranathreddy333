@@ -72,5 +72,4 @@ Through my academic pursuits and practical experiences, I've developed a robust 
 - **Email**: [narendranathreddy333@gmail.com](mailto:narendranathreddy333@gmail.com)
 - **Instagram**: [Follow me on Instagram](https://www.instagram.com/narendranath._.reddy//)
 
-Feel free to explore my projects and reach out if you're interested in collaborating. I'm always looking for new challenges and opportunities to grow!
 
