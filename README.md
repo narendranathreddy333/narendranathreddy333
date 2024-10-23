@@ -25,9 +25,22 @@ Through my academic pursuits and practical experiences, I've developed a robust 
   - Developed a predictive tool to recommend colleges based on student data using Python and JavaScript.
 
 ## 🚀 Projects
-- **Online Cab Booking Portal**: Engineered a secure and user-friendly portal that improved user engagement significantly.
-- **CNN Based Deepfakes Detection Model**: Created using TensorFlow to enhance digital security by identifying forged images on social media.
-- **Smart Inventory Management System**: Developed a system using advanced analytics to optimize inventory levels.
+- **Secure and Interactive Online Cab Booking Portal | Spring Boot (Java), Hibernate**: Engineered a secure and user-friendly cab booking portal using Spring Boot and Hibernate, resulting in a 40% increase in user registrations and a 30% uptick in monthly bookings within the first three months after launch.
+
+- **CNN Based Deepfakes Detection Model for Forged Image Identification in Social Media | OpenCV, TensorFlow**: Pioneered a CNN-based deep learning model that accurately identifies forged images on social media with a 5% success rate, significantly enhancing digital trust and security measures.
+
+- **Enhancing Extractive Text Summarization with Graph-Based Architectures | NLP, Programming, Data Analysis, Graph Theory, ML**: Developed a graph-based method to enhance text summarization using NLP and graph theory. This innovative approach improved the coherence and detail of summaries by capturing complex semantic relationships within texts. Tested on the “ArxivPapers” dataset, it showed marked improvements in accuracy and readability.
+
+- **Optimizing and Forecasting Future Electricity Bills Through Solar Energy Integration**: Participated in a research initiative to reduce electricity costs using solar energy integration. Utilized machine learning techniques, including Gradient Boosting and Random Forest, to forecast electricity expenses. Achieved exceptional predictive accuracy, providing insights for cost-effective solar deployment in residential and commercial settings.
+
+- **Smart Inventory Management in Retail and Warehousing: A Data-Driven Approach**: Participated in a research initiative to reduce electricity costs using solar energy integration. Utilized machine learning techniques, including Gradient Boosting and Random Forest, to forecast electricity expenses. Achieved exceptional predictive accuracy, providing insights for cost-effective solar deployment in residential and commercial settings.
+
+- **College Predictor**: Developed an application that accepts 12th marks and competitive marks and predicts the best colleges the student is eligible for.
+
+- **Online Food Ordering System**: A DBMS project involving designing a database to manage various aspects of an online food ordering system, such as menus, orders, customer information, and delivery tracking to streamline operations and improve customer satisfaction.
+
+- **Green House Automation**: Developed a model using sensors, controllers, and other technologies to automate various processes in a greenhouse, including climate control, irrigation, and lighting to optimize plant growth and increase crop yields while reducing energy consumption and labor costs.
+
 
 ## 🛠️ Technical Skills
 ### Programming Languages and Frameworks
