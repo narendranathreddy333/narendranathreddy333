@@ -15,6 +15,8 @@ Through my academic pursuits and practical experiences, I've developed a robust 
   - GPA: 8.7/10
 
 ## 💼 Professional Experience
+- **Volunteer Data Research Analyst** at Community Dreams Foundation
+  - Spearheading data analytics initiatives to enhance decision-making using advanced statistical modeling.
 - **Data Analyst** at Wfconnect Technologies Limited
   - Analyzed data to support business decisions through trend identification and reporting.
 - **Full Stack Developer Intern** at Glisten Project Solutions Pvt. Ltd
